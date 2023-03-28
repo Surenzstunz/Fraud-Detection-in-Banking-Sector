@@ -14,7 +14,7 @@ Credit card fraud is a form of identity theft that involves an unauthorized taki
 
 The API was built with FastAPI and can be found [here.](https://credit-fraud-ml-api.herokuapp.com/)
 
-The notebook, model and documentation(Dockerfiles, FastAPI script, Streamlit App script) are available on [GitHub.](https://github.com/Nneji123/Credit-Card-Fraud-Detection)        
+The notebook, model and documentation(Dockerfiles, FastAPI script, Streamlit App script) are available on [GitHub.](https://github.com/Surenzstunz/Fraud-Detection-in-Banking-Sector)        
 
 **Made by The Matadators Team**
 
